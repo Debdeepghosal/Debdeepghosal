@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debdeep</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
 
 - 🌱 I’m currently learning **Artificial intelligence and Machine learning**
